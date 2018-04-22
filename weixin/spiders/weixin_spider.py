@@ -42,6 +42,7 @@ class WeixinSpiderSpider(scrapy.Spider):
 
     #列表页面
     def parse_page(self, response):
+
         if response:
             data = json.loads(response.text)
 
@@ -76,7 +77,7 @@ class WeixinSpiderSpider(scrapy.Spider):
                     "CSP": "active",
                     "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
                     "Origin": "https://mp.weixin.qq.com",
-                    "Cookie": "rewardsn=; wxtokenkey=777; wxuin=411171575; devicetype=Windows10; version=6206021b; lang=zh_CN; pass_ticket=BNKM3eeVl4pVB61oYdfUKMfAB54LcsYnT2dupvcSrryRe5JIfvBfdwYi8Q1oOr/1; wap_sid2=CPf1h8QBElxYZjhfRDJzUnlhS1AwZWZIRks3ZkwwUDZicWV3MlkwRDhBcDlkOTIyVWUwNWFaWmVSSkJLZGZ5WExOQlUxTFBWckE0VDZ6eWZBNVJLZmJpZDItV0RxcmtEQUFBfjCNyPLWBTgNQAE=",
+                    "Cookie": "",#你的cookie,
                     "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36 MicroMessenger/6.5.2.501 NetType/WIFI WindowsWechat QBCore/3.43.27.400 QQBrowser/9.0.2524.400"
                 }
 

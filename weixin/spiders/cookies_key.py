@@ -1,28 +1,3 @@
 cookies = {
-	"pgv_pvi" : "3951673344",
-	"pgv_pvid" : "9994897478",
-	"pt2gguin" : "o0771631095",
-	"RK" : "CN7prEMBeS",
-	"ptcz" : "c8534d4b14a375eeaf1d2ab35bb3bf0883126d2b4e6236a20eb8077143d8bce0",
-	"o_cookie" : "771631095",
-	"pac_uid" : "1_771631095",
-	"tvfe_boss_uuid" : "87dba7e80dd64191",
-	"ua_id" : "p9yM1BuJhS2NF6PcAAAAAGm9uFyqQSCUENjpsy1VhcQ=",
-	"mm_lang" : "zh_CN",
-	"noticeLoginFlag" : "1",
-	"remember_acct" : "2257541233",
-	"pgv_si" : "s6948067328",
-	"cert" : "KTesnr_yfh_EkxnBbgzUTelgdroCZVQe",
-	"sig"  : "h0171ba2bd1a6a63b211dd291df0e363975b982912053067efa465b89e1e96c311b5aab7ac47d9c29bc",#变化
-	"uuid" : "ec1d5602797082ab0a22a6446bc4ccea",#变化
-	"bizuin" : "2391669400",#变化
-	"ticket" : "52416e0b0b1d977a8333f5cd34efebf10dc8caea",
-	"ticket_id" : "gh_e3ccb3bc8692",
-	"data_bizuin" : "2391669400",
-	"data_ticket" : "cxdZUHUdkdXvaL++Ow5anqndiq3EN7xkAi+SnaoyUCHGXIhIVcAL/Q9XHuaUmt/N",#变化
-	"slave_sid" : "cVQ0bG92aFdablU4OFprdmZ2R1RncUtYdF9rcUNqYXpJNVZmUGVvYjhhTW9jazZHeGNhRGNITEx6VEhaaUFQVm1kTGZSX1NuaVJ0MlB0eTRSdVo0TDdxRGhsWG9CSkJnaVh4ZlFaSkZtekJZbmtBa1hadHM1Yk9EeHpkSzNyb2dGTmdURTNyZE0wbFRKUlJR",#变化
-	"slave_user" : "gh_e3ccb3bc8692",
-	"xid" : "9b79c1946670429bde22a714254f0aa6",
-	"openid2ticket_omPqNjmfaqEvMGanCQgbBG_sgPf8" : "J3MOvzTl80AbSryTP2Tn9+UGKRASOKDczUgTx4HMjIA=",
-	"rewardsn" : "",
+	#你的cookie
 }
